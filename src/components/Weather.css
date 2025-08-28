@@ -1,0 +1,22 @@
+.weather-container {
+    max-width: 400px;
+    height: 200px;
+    background-color: rgb(154, 201, 209);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.weather-info {
+    margin-top: 20px;
+}
+
+.btn {
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.inpt {
+    border: 2px, solid, black;
+}
