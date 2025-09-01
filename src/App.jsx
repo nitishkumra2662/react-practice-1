@@ -3,6 +3,7 @@ import UserCard from "./components/UserCard";
 import Board from "./components/Board";
 import Gallery from "./components/Gallery";
 import Weather from "./components/Weather";
+import Information from "./components/Information";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Board />
         <Gallery />
         <Weather />
+        <Information />
       </div>
     </>
   );
